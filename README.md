@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viktor Angelo B. Apuyan</h1>
+<h1 align="center">Hi! I'm Viktor</h1>
 <h3 align="center">A passionate Data Science enthusiast and eagers to learn more about it</h3>
 
 - 🌱 I’m currently learning **Deep Learning (time series, object detection, and etc.)**
