@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Viktor</h1>
-<h3 align="center">A passionate Data Science enthusiast and eagers to learn more about it</h3>
+<h3 align="center">A passionate Data Science enthusiast and eagers to learn more about it. I also like building websites</h3>
 
-- 🌱 I’m currently learning **Deep Learning (time series, object detection, and etc.)**
+- 🌱 I’m currently learning **Deep Learning (object detection, computer vision and etc.)**
 
 - 📫 How to reach me **viktorapuyan.va@gmail.com**
 
