@@ -31,7 +31,7 @@ I'm a Data Science and AI enthusiast focused on turning data and images into use
 
 <table>
   <tr>
-    <td width="30%"><a href="https://github.com/viktorapuyan/Cartoon"><b>CartonIQ</b></a><br><sub>repo: <code>Cartoon</code></sub></td>
+    <td width="30%"><a href="https://github.com/viktorapuyan/Cartoon"><b>Cartoon</b></a><br><sub>repo: <code>Cartoon</code></sub></td>
     <td width="50%">Real-time computer vision system that measures an object's dimensions using a dual-camera setup with U-Net segmentation then generates a production-ready RSC dieline in SVG.</td>
     <td width="20%"><sub>Python · PyTorch · OpenCV · Tkinter</sub></td>
   </tr>
