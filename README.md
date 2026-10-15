@@ -1,21 +1,91 @@
-<h1 align="center">Hi! I'm Viktor</h1>
-<h3 align="center">A passionate Data Science enthusiast and eagers to learn more about it. I also like building websites</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Deep Learning (object detection, computer vision and etc.)**
+# Viktor Apuyan
 
-- 📫 How to reach me **viktorapuyan.va@gmail.com**
+**Aspiring Data Scientist & AI Engineer**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/viktorangeloapuyann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viktorapuyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viktor-angelo-apuyan-0b2374189/) 
+Building intelligent systems with computer vision, machine learning, and the web.
+<br>
+Quezon City, Philippines 🇵🇭
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=viktorapuyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=viktorapuyan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorapuyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
+
+[![Email](https://img.shields.io/badge/Email-viktorapuyan.va@gmail.com-1F2328?style=flat-square&logo=gmail&logoColor=white)](mailto:viktorapuyan.va@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viktor_Angelo_Apuyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-angelo-apuyan-0b2374189/)
+[![Instagram](https://img.shields.io/badge/Instagram-viktorapuyan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/viktorapuyan)
+[![Facebook](https://img.shields.io/badge/Facebook-viktorangeloapuyann-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/viktorangeloapuyann)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=viktorapuyan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm a Data Science and AI enthusiast focused on turning data and images into useful, real-world applications. I enjoy working across the full pipeline, from training models to wrapping them in clean interfaces, and I also build websites on the side. I like networking too, so feel free to reach out.
+
+**Currently learning:** Deep Learning, with a focus on object detection and computer vision.
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="30%"><a href="https://github.com/viktorapuyan/Cartoon"><b>CartonIQ</b></a><br><sub>repo: <code>Cartoon</code></sub></td>
+    <td width="50%">Real-time computer vision system that measures carton box dimensions using a dual-camera setup with YOLOv11 segmentation and ArUco markers, then generates a production-ready RSC dieline in SVG.</td>
+    <td width="20%"><sub>Python · PyTorch · OpenCV · Tkinter</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/viktorapuyan/documind-ai"><b>DocuMind AI</b></a><br><sub>repo: <code>documind-ai</code></sub></td>
+    <td><!-- TODO: confirm this description matches the project -->AI-powered document assistant that lets you ask questions about your documents and get answers in natural language.</td>
+    <td><sub>Python · AI / LLM</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/viktorapuyan/telco-customer-churn"><b>Telco Customer Churn</b></a><br><sub>repo: <code>telco-customer-churn</code></sub></td>
+    <td><!-- TODO: confirm this description matches the project -->Machine learning project that analyzes telecom customer data to predict churn and identify the key factors behind customer attrition.</td>
+    <td><sub>Python · scikit-learn · Pandas</sub></td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Data & Visualization** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Web & Databases** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+
+<sub>Also familiar with: Qt, React Native, Expo, MariaDB, SQL Server, Arduino, Raspberry Pi, Canva, Adobe Premiere Pro.</sub>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/viktorapuyan">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viktorapuyan&show_icons=true&hide_border=true&theme=github_dark&count_private=false&include_all_commits=false">
+    <img alt="Viktor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=viktorapuyan&show_icons=true&hide_border=true&theme=default&count_private=false&include_all_commits=false" height="165">
+  </picture>
+</a>
+<a href="https://github.com/viktorapuyan?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorapuyan&layout=compact&hide_border=true&theme=github_dark">
+    <img alt="Viktor's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorapuyan&layout=compact&hide_border=true&theme=default" height="165">
+  </picture>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Open to opportunities and collaborations in Data Science and AI. Let's connect!</sub>
+
+</div>
